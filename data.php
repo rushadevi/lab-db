@@ -2,7 +2,7 @@
 
 
 $write_servername = '35.202.191.253';
-$read_servername = '34.56.98.28  ';
+$read_servername = '34.56.98.28';
 $username = 'root';
 $password = 'lab-password';
 $database = 'inventory';
